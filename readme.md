@@ -1,6 +1,8 @@
 # Exercism Solved Questions
 
-## Langs
-- awk
-- bash
-- sql
+## Language Tracks
+- Bash
+- PL/SQL 
+- Golang
+- Java
+
